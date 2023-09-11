@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(74, 7, 100, 0.842);
+    background-image: linear-gradient(to right, rgb(230, 235, 222), rgb(109, 37, 8));
+}
+
+h1{
+    color: darkgreen;
+}
+
+.div-1{
+    padding: 0 20px;
+}
+
+button{
+    color: black;
+    font-family: cursive;
+    border-radius: 30%;
+}
+
+.span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(231, 15, 33);
+}
